@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mí
+# Acerca de mí:
 
 * 🎓 Estudiante de 2° año de Ingeniería Civil en Informática.
 * ⚙️ Aprendiendo desarrollo backend y frontend.
