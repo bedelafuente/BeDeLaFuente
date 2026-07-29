@@ -10,7 +10,7 @@
 * ⚙️ Aprendiendo Cloud y DevOps.
 * 🐧 Entusiasta del ecosistema Linux y trabajos en terminal.
 * 🥋 Me gustan las artes marciales (jj, boxeo, karate, etc.), la UFC y a veces la informática.
-* 🚀 A veces construyendo herramientas y bots para optimizar procesos del mundo real.
+* 🚀 A veces aprendiendo a optimizar procesos.
 
 ## 🛠️ Stack
 
